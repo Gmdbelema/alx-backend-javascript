@@ -5,4 +5,3 @@ export default function getListStudentIds(studentsArray) {
 
   return studentsArray.map((student) => student.id);
 }
-
